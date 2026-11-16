@@ -2,75 +2,82 @@
 
 <img src="assets/banner.svg" alt="Achievement Lab — Build, Collaborate, Unlock" width="100%" />
 
-<br />
+<br/>
 
-![Private repo](https://img.shields.io/badge/REPOSITORY-PRIVATE-7755cc?style=for-the-badge&logo=github&logoColor=white)
-![GitHub achievements](https://img.shields.io/badge/FOCUS-GITHUB%20ACHIEVEMENTS-238636?style=for-the-badge)
-![Real contributions](https://img.shields.io/badge/APPROACH-REAL%20WORK-147ca0?style=for-the-badge)
+![Private lab](https://img.shields.io/badge/REPO-PRIVATE-7755cc?style=for-the-badge&logo=github&logoColor=white)
+![Earned](https://img.shields.io/badge/ACHIEVEMENTS-2%20%2F%207-2ea44f?style=for-the-badge)
+![Remaining](https://img.shields.io/badge/REMAINING-5-f59e0b?style=for-the-badge)
 
-**A tiny GitHub playground for learning workflows, shipping useful improvements, and tracking achievements.**
+**All GitHub achievements. One private tracking space.**
 
-[Achievement guide](docs/ACHIEVEMENTS.md) · [Progress tracker](docs/ROADMAP.md) · [Practice workflows](docs/WORKFLOWS.md) · [My GitHub](https://github.com/KiyamaPaD)
+[🏆 Complete guide](docs/ACHIEVEMENTS.md) · [🎯 Roadmap](docs/ROADMAP.md) · [🧪 How to earn them](docs/WORKFLOWS.md) · [👤 My profile](https://github.com/KiyamaPaD)
 
 </div>
 
 ---
 
-## 🏆 The achievement board
+## 🏆 Achievement collection
 
-> **Status is updated manually.** Pull Shark and Quickdraw were confirmed as unlocked by the account owner on 2026-11-16; statuses are not retrieved automatically from GitHub. Check the official **Achievements** section on [@KiyamaPaD's profile](https://github.com/KiyamaPaD).
+**2 unlocked · 5 remaining** — based on owner-confirmed achievements on **16 November 2026**. This tracker is manual, not connected to GitHub's award system.
 
-| Achievement | Unlock target | Where to work | Status |
-| :-- | :-- | :-- | :--: |
-| ⚡ **Quickdraw** | Close an issue or PR within five minutes | This private lab | ✅ Unlocked |
-| 🚀 **YOLO** | Merge your own PR without a review | This private lab | ⬜ |
-| 🦈 **Pull Shark** | Have two of your own PRs merged | This private lab | ✅ Unlocked |
-| 🤝 **Pair Extraordinaire** | Co-author a commit in a merged PR | With a real collaborator | ⬜ |
-| 🧠 **Galaxy Brain** | Get two answers accepted in Discussions | A real discussion | ⬜ |
-| ⭐ **Starstruck** | Own a repository with 16 stars | **A public repository** | ⬜ |
-| 💜 **Public Sponsor** | Sponsor an open-source developer | GitHub Sponsors (optional, paid) | ⬜ |
+### ✅ Unlocked
 
-Detailed rules, limitations and extra levels: **[Achievement guide →](docs/ACHIEVEMENTS.md)**
+| Achievement | Condition | Status |
+| :--- | :--- | :--- |
+| 🦈 **Pull Shark** | Have 2 of your own pull requests merged | ✅ **Unlocked** |
+| ⚡ **Quickdraw** | Close an issue or pull request within 5 minutes | ✅ **Unlocked** |
 
-## 🧪 What lives here?
+### 🔒 Remaining
 
-```text
-Achievement-Lab/
-├── assets/
-│   └── banner.svg                    # Original repository artwork
-├── docs/
-│   ├── ACHIEVEMENTS.md               # Badge criteria and caveats
-│   ├── ROADMAP.md                    # Manual verification checklist
-│   └── WORKFLOWS.md                  # Practical exercises
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   │   └── improvement.md            # Small, meaningful tasks
-│   └── PULL_REQUEST_TEMPLATE.md      # Reviewable changes
-└── README.md
-```
+| Achievement | How to unlock | Can this lab help? | Status |
+| :--- | :--- | :--- | :--- |
+| 🚀 **YOLO** | Merge a PR without a review | ✅ Private lab | ⬜ Not yet confirmed |
+| 🤝 **Pair Extraordinaire** | Have a genuinely co-authored commit in a merged PR | ✅ With a real collaborator | ⬜ Not yet confirmed |
+| 🧠 **Galaxy Brain** | Get 2 answers accepted in GitHub Discussions | 🌍 Requires real Q&A discussions | ⬜ Not yet confirmed |
+| ⭐ **Starstruck** | Own a repo that reaches 16 stars | 🌍 Requires a public repository | ⬜ Not yet confirmed |
+| 💜 **Public Sponsor** | Publicly sponsor an open-source maintainer through GitHub Sponsors | 💳 External, optional and paid | ⬜ Not yet confirmed |
 
-### 🎮 Lab rules
+> **Important:** Creating files, opening issues or ticking checkboxes does **not** award achievements. GitHub awards them for qualifying activity. Integration/bot actions may not be credited to the personal account.
 
-- **Practice with real changes.** A PR should leave a file, explanation or workflow genuinely better.
-- **No fake co-authors, spam discussions, or meaningless commit farming.**
-- **Privacy first.** The repository stays private. Public badges can still be earned from private contributions when profile settings allow them.
-- **Verify on the actual profile.** The checklist is manual; icons in this README are decorative, **not** GitHub-awarded achievement icons. Two badges are marked unlocked based on the owner's confirmation.
+## 🥇 Tier collection
 
-## 🧭 Start here
+Achievements with levels can be earned repeatedly to reach higher tiers. These thresholds are **community-documented**; only the official profile shows the tier actually awarded.
 
-1. Confirm **Private contributions** under your GitHub profile's **Contribution settings**.
-2. Confirm **Show Achievements on my profile** in **Settings → Public profile**.
-3. Follow the [practice workflows](docs/WORKFLOWS.md), using your own GitHub account for actions you want attributed to you.
-4. Check your [profile](https://github.com/KiyamaPaD) and update the [tracker](docs/ROADMAP.md) only after an award is visible.
+| Achievement | Default | Bronze | Silver | Gold | Current |
+| :--- | ---: | ---: | ---: | ---: | :--- |
+| 🦈 Pull Shark | 2 merged PRs | 16 | 128 | 1,024 | ✅ Base earned; higher levels unknown |
+| 🤝 Pair Extraordinaire | 1 co-authored merged PR | 10 | 24 | 48 | ⬜ |
+| 🧠 Galaxy Brain | 2 accepted answers | 8 | 16 | 32 | ⬜ |
+| ⭐ Starstruck | 16 stars on your repo | 128 | 512 | 4,096 | ⬜ |
 
-> ⚠️ Actions performed by an integration/bot may not be attributed to your personal account. When pursuing a badge, do the qualifying action yourself.
+**Quickdraw**, **YOLO** and **Public Sponsor** do not have documented extra tiers.
+
+## 🎮 Next actions
+
+1. **YOLO 🚀:** Make a meaningful edit in a branch, open a PR **as KiyamaPaD**, and merge it without formal review if appropriate for this personal lab.
+2. **Pair Extraordinaire 🤝:** Actually collaborate on a change with someone, properly credit both authors in a commit, then merge that PR.
+3. **Galaxy Brain 🧠:** Answer genuine technical questions in GitHub Discussions where answers can be accepted.
+4. **Starstruck ⭐:** Improve a **public** project such as [Mars Atlas](https://github.com/KiyamaPaD/InfotronX-Horizon), [MathHard](https://github.com/KiyamaPaD/MathHard), or [FTC Programming Atlas](https://github.com/KiyamaPaD/FTC-Programming-Atlas) and let stars arrive organically.
+5. **Public Sponsor 💜:** Entirely optional; do **not** spend money merely for a badge.
+
+Detailed steps are in **[Workflows →](docs/WORKFLOWS.md)**. Record proof and newly awarded tiers in **[Roadmap →](docs/ROADMAP.md)**.
+
+## 🗂️ Other badges and archived achievements
+
+**Historical (no longer obtainable):** Arctic Code Vault Contributor, Mars 2020 Contributor.
+
+**Experimental/disabled (not active goals):** Heart On Your Sleeve, Open Sourcerer.
+
+**Profile highlights (not Achievements):** PRO, Developer Program Member, Campus Expert, Security Advisory Credit, Security Bug Bounty Hunter. See the [full guide](docs/ACHIEVEMENTS.md) for distinctions.
+
+GitHub Achievements are in public preview and may change. The list of currently available achievements was checked on **2026-11-16**. Sources: [GitHub Docs](https://docs.github.com/en/account-and-profile/reference/profile-reference) · [Community achievement catalog](https://github.com/SharmARohitt/Github-Achievement).
 
 ---
 
 <div align="center">
 
-**Built by [KiyamaPaD](https://github.com/KiyamaPaD) • Learn the workflow, earn the badge.**
+**Earn it for real. Track it here.** 🏆
 
-<sub>Unofficial personal learning project. Not affiliated with GitHub.</sub>
+<sub>Created for <a href="https://github.com/KiyamaPaD">KiyamaPaD</a> · Unofficial personal GitHub learning project</sub>
 
 </div>
