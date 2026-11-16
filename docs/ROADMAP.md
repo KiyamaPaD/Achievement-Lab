@@ -1,39 +1,77 @@
-# 🎯 Achievement Roadmap
+# 🎯 Achievement Lab — progres personal
 
-Progresul de aici se completează **manual**, pe baza realizărilor confirmate de proprietar. O bifă din acest fișier nu reprezintă verificare automată din API-ul GitHub.
+> Statusurile sunt actualizate **manual**. Pull Shark și Quickdraw au fost confirmate ca obținute de proprietarul contului pe **16.11.2026**; nu sunt verificate automat prin GitHub API.
 
-## Profil și confidențialitate
+## 🏆 Colecția: 2 / 7 deblocate
 
-- [ ] Am activat **Private contributions** pe profil.
-- [ ] Am activat **Show Achievements on my profile**.
-- [ ] Am verificat că **Achievement-Lab** este privat.
-- [ ] Am deschis secțiunea Achievements de pe [profilul meu](https://github.com/KiyamaPaD).
+| Achievement | Status | Dovadă / observații |
+| :--- | :--- | :--- |
+| 🦈 **Pull Shark** | ✅ Obținut | Confirmat de proprietar |
+| ⚡ **Quickdraw** | ✅ Obținut | Confirmat de proprietar |
+| 🚀 **YOLO** | ⬜ În așteptare | Link PR: — |
+| 🤝 **Pair Extraordinaire** | ⬜ În așteptare | Link PR cu coautor: — |
+| 🧠 **Galaxy Brain** | ⬜ În așteptare | Răspuns acceptat 1: — / 2: — |
+| ⭐ **Starstruck** | ⬜ În așteptare | Repository public: — |
+| 💜 **Public Sponsor** | ⬜ Opțional (plătit) | — |
 
-## Achievement tracker
+## 🥇 Tier-uri superioare
 
-| Badge | Dovezi / PR / Issue | Confirmat pe profil |
-|---|---|---|
-| ⚡ Quickdraw | Confirmat de proprietar (2026-11-16) | ✅ |
-| 🚀 YOLO | — | ⬜ |
-| 🦈 Pull Shark | Confirmat de proprietar (2026-11-16) | ✅ |
-| 🤝 Pair Extraordinaire | — | ⬜ |
-| 🧠 Galaxy Brain | Accepted answer 1: — / 2: — | ⬜ |
-| ⭐ Starstruck | Proiect public: — | ⬜ |
-| 💜 Public Sponsor | Opțional — niciun buget necesar pentru laborator | ⬜ |
+| Achievement | Default | Bronze | Silver | Gold | Cel mai mare nivel confirmat |
+| :--- | ---: | ---: | ---: | ---: | :--- |
+| Pull Shark (PR-uri merged) | 2 | 16 | 128 | 1.024 | Default ✅ |
+| Pair Extraordinaire (PR-uri co-authored) | 1 | 10 | 24 | 48 | — |
+| Galaxy Brain (răspunsuri acceptate) | 2 | 8 | 16 | 32 | — |
+| Starstruck (stele) | 16 | 128 | 512 | 4.096 | — |
 
-## Mini-roadmap pentru lucru real
+**Notă:** Pragurile sunt documentate de comunitate. Nu presupunem că ai nivelurile superioare până nu le verifici pe profil.
 
-- [ ] Verific aspectul README-ului pe desktop și pe mobil.
-- [ ] Îmbunătățesc un text sau o instrucțiune printr-un PR creat de mine.
-- [ ] Corectez o problemă observată efectiv printr-un al doilea PR creat de mine.
-- [ ] Fac un exercițiu de colaborare cu o persoană reală, dacă avem amândoi timp.
-- [ ] Revizuiesc acest fișier **doar după verificarea badge-urilor pe profil**.
+## 🧪 Checklist — următorii pași
 
-## Jurnal de progres
+### Pasul 1: YOLO 🚀
 
-| Data | Schimbare reală | Link | Observație |
-|---|---|---|---|
-| 2026-11-16 | Inițializarea laboratorului și documentației | [Repository](https://github.com/KiyamaPaD/Achievement-Lab) | Ghid și dashboard create |
-| 2026-11-16 | Pull Shark + Quickdraw | [Profil](https://github.com/KiyamaPaD) | Ambele confirmate ca deblocate de proprietar |
+- [ ] Identific o corectură reală în acest laborator.
+- [ ] Creez o ramură și fac modificarea **din contul KiyamaPaD**.
+- [ ] Creez propriul PR, verific modificarea și fac merge dacă nu este necesar review.
+- [ ] Verific achievement-ul oficial în profil.
+- [ ] Notez linkul către PR și actualizez tabelul.
 
-> **Notă:** Progresul oficial poate apărea cu întârziere. Dacă un badge nu apare, verifică atribuirea acțiunii și setările de vizibilitate înainte de a repeta activitatea.
+### Pasul 2: Pair Extraordinaire 🤝
+
+- [ ] Colaborez efectiv cu un alt developer.
+- [ ] Creez un commit care îl creditează corect pe coautor.
+- [ ] Includ commit-ul într-un PR și fac merge.
+- [ ] Verific achievement-ul oficial și documentez PR-ul.
+
+### Pasul 3: Galaxy Brain 🧠
+
+- [ ] Răspund la o întrebare reală în GitHub Discussions (Q&A).
+- [ ] Primesc prima acceptare reală.
+- [ ] Primesc a doua acceptare reală.
+- [ ] Verific achievement-ul și documentez linkurile.
+
+### Pasul 4: Starstruck ⭐
+
+- [ ] Aleg un proiect **public** propriu, util comunității.
+- [ ] Îmbunătățesc documentația și onboarding-ul.
+- [ ] Proiectul ajunge organic la 16 stele.
+- [ ] Verific achievement-ul oficial.
+
+### Pasul 5: Public Sponsor 💜
+
+- [ ] Doar dacă vreau să susțin financiar un maintainer și accept plata. **Nu e obligatoriu**.
+
+## 🔐 Setări
+
+- [ ] Verific că achievement-urile sunt vizibile pe profil.
+- [ ] Verific dacă vreau să includ și contribuțiile private în statisticile publice.
+- [x] Achievement-Lab este un repository **privat** (verificat la configurare).
+
+## 🗓️ Istoric
+
+| Data | Eveniment | Observație |
+| :--- | :--- | :--- |
+| 2026-11-16 | Inițializare Achievement Lab | README + banner + ghid |
+| 2026-11-16 | Pull Shark și Quickdraw | Confirmate de utilizator ca obținute |
+| 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
+
+[← Dashboard](../README.md) · [Catalog complet](ACHIEVEMENTS.md) · [Exerciții practice](WORKFLOWS.md)
