@@ -1,6 +1,6 @@
 # 🎯 Achievement Roadmap
 
-Progresul de aici se completează **manual**. O căsuță bifată în README nu înseamnă că GitHub a acordat badge-ul.
+Progresul de aici se completează **manual**, pe baza realizărilor confirmate de proprietar. O bifă din acest fișier nu reprezintă verificare automată din API-ul GitHub.
 
 ## Profil și confidențialitate
 
@@ -13,9 +13,9 @@ Progresul de aici se completează **manual**. O căsuță bifată în README nu 
 
 | Badge | Dovezi / PR / Issue | Confirmat pe profil |
 |---|---|---|
-| ⚡ Quickdraw | — | ⬜ |
+| ⚡ Quickdraw | Confirmat de proprietar (2026-11-16) | ✅ |
 | 🚀 YOLO | — | ⬜ |
-| 🦈 Pull Shark | PR 1: — / PR 2: — | ⬜ |
+| 🦈 Pull Shark | Confirmat de proprietar (2026-11-16) | ✅ |
 | 🤝 Pair Extraordinaire | — | ⬜ |
 | 🧠 Galaxy Brain | Accepted answer 1: — / 2: — | ⬜ |
 | ⭐ Starstruck | Proiect public: — | ⬜ |
@@ -33,6 +33,7 @@ Progresul de aici se completează **manual**. O căsuță bifată în README nu 
 
 | Data | Schimbare reală | Link | Observație |
 |---|---|---|---|
-| 2026-11-16 | Inițializarea laboratorului și documentației | [Repository](https://github.com/KiyamaPaD/Achievement-Lab) | Achievement-urile nu sunt verificate |
+| 2026-11-16 | Inițializarea laboratorului și documentației | [Repository](https://github.com/KiyamaPaD/Achievement-Lab) | Ghid și dashboard create |
+| 2026-11-16 | Pull Shark + Quickdraw | [Profil](https://github.com/KiyamaPaD) | Ambele confirmate ca deblocate de proprietar |
 
 > **Notă:** Progresul oficial poate apărea cu întârziere. Dacă un badge nu apare, verifică atribuirea acțiunii și setările de vizibilitate înainte de a repeta activitatea.
