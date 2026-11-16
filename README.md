@@ -55,7 +55,7 @@ Achievements with levels can be earned repeatedly to reach higher tiers. These t
 ## 🎮 Next actions
 
 1. **YOLO 🚀 — pending:** [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) has been merged by KiyamaPaD without a formal review. Wait for GitHub to award the badge before changing the status to unlocked.
-2. **Pair Extraordinaire 🤝 — next:** Actually collaborate on a change with a real teammate, include a correctly attributed co-authored commit, and merge that PR. See the [collaboration issue](https://github.com/KiyamaPaD/Achievement-Lab/issues/4).
+2. **Pair Extraordinaire 🤝 — in progress:** [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) and [draft PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) are ready. A real teammate must help write and verify changes, and a genuinely co-authored commit must be retained before merging.
 3. **Galaxy Brain 🧠:** Answer genuine technical questions in GitHub Discussions where answers can be accepted.
 4. **Starstruck ⭐:** Improve a **public** project such as [Mars Atlas](https://github.com/KiyamaPaD/InfotronX-Horizon), [MathHard](https://github.com/KiyamaPaD/MathHard), or [FTC Programming Atlas](https://github.com/KiyamaPaD/FTC-Programming-Atlas) and let stars arrive organically.
 5. **Public Sponsor 💜:** Entirely optional; do **not** spend money merely for a badge.
