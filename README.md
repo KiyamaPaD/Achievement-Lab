@@ -18,7 +18,7 @@
 
 ## 🏆 Achievement collection
 
-**2 unlocked · 5 remaining** — based on owner-confirmed achievements on **16 November 2026**. This tracker is manual, not connected to GitHub's award system.
+**2 unlocked · 1 pending · 4 not yet attempted/confirmed.** YOLO remains unawarded despite the eligible-looking merge; pending is not counted as unlocked. This tracker is manual, not connected to GitHub's award system.
 
 ### ✅ Unlocked
 
@@ -31,7 +31,7 @@
 
 | Achievement | How to unlock | Can this lab help? | Status |
 | :--- | :--- | :--- | :--- |
-| 🚀 **YOLO** | Merge a PR without a review | ✅ Private lab | ⬜ Not yet confirmed |
+| 🚀 **YOLO** | Merge a PR without a review | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) merged without review | ⏳ **Pending — not awarded yet** |
 | 🤝 **Pair Extraordinaire** | Have a genuinely co-authored commit in a merged PR | ✅ With a real collaborator | ⬜ Not yet confirmed |
 | 🧠 **Galaxy Brain** | Get 2 answers accepted in GitHub Discussions | 🌍 Requires real Q&A discussions | ⬜ Not yet confirmed |
 | ⭐ **Starstruck** | Own a repo that reaches 16 stars | 🌍 Requires a public repository | ⬜ Not yet confirmed |
@@ -54,8 +54,8 @@ Achievements with levels can be earned repeatedly to reach higher tiers. These t
 
 ## 🎮 Next actions
 
-1. **YOLO 🚀:** Make a meaningful edit in a branch, open a PR **as KiyamaPaD**, and merge it without formal review if appropriate for this personal lab.
-2. **Pair Extraordinaire 🤝:** Actually collaborate on a change with someone, properly credit both authors in a commit, then merge that PR.
+1. **YOLO 🚀 — pending:** [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) has been merged by KiyamaPaD without a formal review. Wait for GitHub to award the badge before changing the status to unlocked.
+2. **Pair Extraordinaire 🤝 — next:** Actually collaborate on a change with a real teammate, include a correctly attributed co-authored commit, and merge that PR. See the [collaboration issue](https://github.com/KiyamaPaD/Achievement-Lab/issues/4).
 3. **Galaxy Brain 🧠:** Answer genuine technical questions in GitHub Discussions where answers can be accepted.
 4. **Starstruck ⭐:** Improve a **public** project such as [Mars Atlas](https://github.com/KiyamaPaD/InfotronX-Horizon), [MathHard](https://github.com/KiyamaPaD/MathHard), or [FTC Programming Atlas](https://github.com/KiyamaPaD/FTC-Programming-Atlas) and let stars arrive organically.
 5. **Public Sponsor 💜:** Entirely optional; do **not** spend money merely for a badge.
