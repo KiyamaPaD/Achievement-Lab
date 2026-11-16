@@ -18,13 +18,13 @@
 
 ## 🏆 The achievement board
 
-> **This is a planning board, not an automatic record of unlocked badges.** Check the official **Achievements** section on [@KiyamaPaD's GitHub profile](https://github.com/KiyamaPaD) to confirm awards.
+> **Status is updated manually.** Pull Shark and Quickdraw were confirmed as unlocked by the account owner on 2026-11-16; statuses are not retrieved automatically from GitHub. Check the official **Achievements** section on [@KiyamaPaD's profile](https://github.com/KiyamaPaD).
 
-| Achievement | Unlock target | Where to work | Verified? |
+| Achievement | Unlock target | Where to work | Status |
 | :-- | :-- | :-- | :--: |
-| ⚡ **Quickdraw** | Close an issue or PR within five minutes | This private lab | ⬜ |
+| ⚡ **Quickdraw** | Close an issue or PR within five minutes | This private lab | ✅ Unlocked |
 | 🚀 **YOLO** | Merge your own PR without a review | This private lab | ⬜ |
-| 🦈 **Pull Shark** | Have two of your own PRs merged | This private lab | ⬜ |
+| 🦈 **Pull Shark** | Have two of your own PRs merged | This private lab | ✅ Unlocked |
 | 🤝 **Pair Extraordinaire** | Co-author a commit in a merged PR | With a real collaborator | ⬜ |
 | 🧠 **Galaxy Brain** | Get two answers accepted in Discussions | A real discussion | ⬜ |
 | ⭐ **Starstruck** | Own a repository with 16 stars | **A public repository** | ⬜ |
@@ -54,7 +54,7 @@ Achievement-Lab/
 - **Practice with real changes.** A PR should leave a file, explanation or workflow genuinely better.
 - **No fake co-authors, spam discussions, or meaningless commit farming.**
 - **Privacy first.** The repository stays private. Public badges can still be earned from private contributions when profile settings allow them.
-- **Verify on the actual profile.** The checklist is manual; icons in this README are decorative, **not** GitHub-awarded achievements.
+- **Verify on the actual profile.** The checklist is manual; icons in this README are decorative, **not** GitHub-awarded achievement icons. Two badges are marked unlocked based on the owner's confirmation.
 
 ## 🧭 Start here
 
