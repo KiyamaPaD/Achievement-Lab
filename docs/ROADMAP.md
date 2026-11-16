@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | 🦈 **Pull Shark** | ✅ Obținut | Confirmat de proprietar |
 | ⚡ **Quickdraw** | ✅ Obținut | Confirmat de proprietar |
-| 🚀 **YOLO** | ⬜ De verificat pe profil | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) — merge făcut fără review, autor KiyamaPaD, CI trecut; acordarea badge-ului încă neconfirmată |
+| 🚀 **YOLO** | ⬜ **PENDING — acordare neconfirmată** | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) — merged by KiyamaPaD, zero reviews, CI passed; badge-ul nu a apărut încă |
 | 🤝 **Pair Extraordinaire** | ⬜ În așteptare | Link PR cu coautor: — |
 | 🧠 **Galaxy Brain** | ⬜ În așteptare | Răspuns acceptat 1: — / 2: — |
 | ⭐ **Starstruck** | ⬜ În așteptare | Repository public: — |
@@ -29,11 +29,11 @@
 
 ### Pasul 1: YOLO 🚀
 
-- [ ] Identific o corectură reală în acest laborator.
-- [ ] Creez o ramură și fac modificarea **din contul KiyamaPaD**.
-- [ ] Creez propriul PR, verific modificarea și fac merge dacă nu este necesar review.
-- [ ] Verific achievement-ul oficial în profil.
-- [ ] Notez linkul către PR și actualizez tabelul.
+- [x] Am identificat o îmbunătățire reală: CLI de progres + teste automate.
+- [x] Am creat o ramură și implementat modificarea în repo.
+- [x] [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) a fost creat și acceptat fără review ca KiyamaPaD; CI a trecut.
+- [x] Am înregistrat PR-ul în tracker ca **pending**.
+- [ ] Verific din nou profilul și bifez achievement-ul numai când GitHub îl acordă efectiv.
 
 ### Pasul 2: Pair Extraordinaire 🤝
 
