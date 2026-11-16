@@ -41,9 +41,9 @@ Nivelurile suplimentare sunt **praguri comunitar documentate**, nu date citite �
 1. Lucrează efectiv cu o altă persoană la o schimbare.
 2. Fă un commit care reflectă contribuția ambilor autori, cu trailerul:
    
-   \`\`\`text
+   ```text
    Co-authored-by: Nume Colaborator <email-asociat-contului-GitHub>
-   \`\`\`
+   ```
 
 3. Include commit-ul într-un PR și fă merge. Asigură-te că numele/emailul coautorului sunt reale și aprobate de acesta.
 4. Verifică dacă GitHub atribuie corect commit-ul și badge-ul.
