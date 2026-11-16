@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | 🦈 **Pull Shark** | ✅ Obținut | Confirmat de proprietar |
 | ⚡ **Quickdraw** | ✅ Obținut | Confirmat de proprietar |
-| 🚀 **YOLO** | ⬜ În așteptare | Link PR: — |
+| 🚀 **YOLO** | ⬜ De verificat pe profil | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) — merge făcut fără review, autor KiyamaPaD, CI trecut; acordarea badge-ului încă neconfirmată |
 | 🤝 **Pair Extraordinaire** | ⬜ În așteptare | Link PR cu coautor: — |
 | 🧠 **Galaxy Brain** | ⬜ În așteptare | Răspuns acceptat 1: — / 2: — |
 | ⭐ **Starstruck** | ⬜ În așteptare | Repository public: — |
@@ -73,5 +73,6 @@
 | 2026-11-16 | Inițializare Achievement Lab | README + banner + ghid |
 | 2026-11-16 | Pull Shark și Quickdraw | Confirmate de utilizator ca obținute |
 | 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
+| 2026-11-16 | Test eligibilitate YOLO | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) | Merge fără review făcut din contul KiyamaPaD; de verificat dacă badge-ul a apărut |
 
 [← Dashboard](../README.md) · [Catalog complet](ACHIEVEMENTS.md) · [Exerciții practice](WORKFLOWS.md)
