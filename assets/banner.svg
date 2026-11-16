@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">Achievement Lab</title>
+  <desc id="description">A dark GitHub achievements banner with an abstract trophy, stars, and neon gradients.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="52%" stop-color="#131d36"/>
+      <stop offset="100%" stop-color="#17112c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#39d0fc"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ef7cb9"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="25"/></filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="975" cy="110" r="120" fill="#7848e8" opacity=".20" filter="url(#glow)"/>
+  <circle cx="860" cy="250" r="90" fill="#00c9fa" opacity=".11" filter="url(#glow)"/>
+  <path d="M0 260 Q 350 170 650 280 T 1200 250" fill="none" stroke="url(#accent)" stroke-opacity=".25" stroke-width="2"/>
+  <rect x="55" y="55" width="205" height="32" rx="16" fill="#192941" stroke="#2a5776"/>
+  <circle cx="75" cy="71" r="5" fill="#60d8fc"/>
+  <text x="91" y="77" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#b5dfff" letter-spacing="2">KIYAMAPAD / LAB</text>
+  <text x="55" y="161" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="800" fill="#ffffff" letter-spacing="-2">ACHIEVEMENT</text>
+  <text x="55" y="227" font-family="Arial,Helvetica,sans-serif" font-size="60" font-weight="800" fill="url(#accent)" letter-spacing="-2">LAB.</text>
+  <text x="58" y="264" font-family="Arial,Helvetica,sans-serif" font-size="17" fill="#aebbd3" letter-spacing="1">BUILD  •  COLLABORATE  •  UNLOCK</text>
+  <g transform="translate(970,158)">
+    <circle r="107" fill="#1a2746" stroke="#4f6bb3" stroke-opacity=".6" stroke-width="2"/>
+    <circle r="85" fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="3" stroke-dasharray="8 12"/>
+    <path d="M-38 -48H38V-9C38 26 20 46 0 46S-38 26-38-9Z" fill="none" stroke="url(#accent)" stroke-width="10" stroke-linejoin="round"/>
+    <path d="M-38 -32H-57V-15C-57 4-46 12-31 12 M38 -32H57V-15C57 4 46 12 31 12" fill="none" stroke="#7dd3fc" stroke-width="9" stroke-linecap="round"/>
+    <path d="M0 46V66M-30 67H30" fill="none" stroke="#b59bff" stroke-width="10" stroke-linecap="round"/>
+    <path d="M0 -34L5 -20L20 -20L8 -11L13 5L0 -5L-13 5L-8 -11L-20 -20L-5 -20Z" fill="#f1d48a"/>
+  </g>
+  <g fill="#70dcff">
+    <circle cx="792" cy="90" r="3"/><circle cx="1100" cy="68" r="3"/><circle cx="1150" cy="249" r="2"/>
+  </g>
+</svg>
