@@ -8,7 +8,7 @@
 | :--- | :--- | :--- | :--- |
 | 🦈 **Pull Shark** | PR-uri ale tale acceptate prin merge | **2 → 16 → 128 → 1.024** merged PRs | ✅ Deblocat (confirmat de proprietar) |
 | ⚡ **Quickdraw** | Închizi un issue sau PR în maximum 5 minute de la creare | **1**, fără niveluri | ✅ Deblocat (confirmat de proprietar) |
-| 🚀 **YOLO** | Faci merge la un PR fără review | **1**, fără niveluri | ⬜ De obținut |
+| 🚀 **YOLO** | Faci merge la un PR fără review | **1**, fără niveluri | ⏳ Pending — [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) merged, badge neconfirmat |
 | 🤝 **Pair Extraordinaire** | Ai un commit *co-authored* în PR acceptat | **1 → 10 → 24 → 48** | ⬜ De obținut |
 | 🧠 **Galaxy Brain** | Un răspuns al tău este acceptat într-un GitHub Discussion de tip Q&A | **2 → 8 → 16 → 32** răspunsuri | ⬜ De obținut |
 | ⭐ **Starstruck** | Un repository creat de tine atinge pragul de stele | **16 → 128 → 512 → 4.096** stele | ⬜ De obținut |
