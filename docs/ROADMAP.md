@@ -9,7 +9,7 @@
 | 🦈 **Pull Shark** | ✅ Obținut | Confirmat de proprietar |
 | ⚡ **Quickdraw** | ✅ Obținut | Confirmat de proprietar |
 | 🚀 **YOLO** | ⬜ **PENDING — acordare neconfirmată** | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) — merged by KiyamaPaD, zero reviews, CI passed; badge-ul nu a apărut încă |
-| 🤝 **Pair Extraordinaire** | ⬜ În așteptare | Link PR cu coautor: — |
+| 🤝 **Pair Extraordinaire** | ⬜ **ÎN LUCRU — fără badge încă** | [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) + [PR #5 (draft)](https://github.com/KiyamaPaD/Achievement-Lab/pull/5); așteaptă contribuția autentică a unui coleg și un commit cu coautori |
 | 🧠 **Galaxy Brain** | ⬜ În așteptare | Răspuns acceptat 1: — / 2: — |
 | ⭐ **Starstruck** | ⬜ În așteptare | Repository public: — |
 | 💜 **Public Sponsor** | ⬜ Opțional (plătit) | — |
@@ -37,6 +37,8 @@
 
 ### Pasul 2: Pair Extraordinaire 🤝
 
+- [x] Am creat [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) cu o problemă reală de rezolvat.
+- [x] Am creat [PR #5 (draft)](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) cu prima îmbunătățire Python și CI trecut.
 - [ ] Colaborez efectiv cu un alt developer.
 - [ ] Creez un commit care îl creditează corect pe coautor.
 - [ ] Includ commit-ul într-un PR și fac merge.
@@ -74,5 +76,6 @@
 | 2026-11-16 | Pull Shark și Quickdraw | Confirmate de utilizator ca obținute |
 | 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
 | 2026-11-16 | Test eligibilitate YOLO | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) | Merge fără review făcut din contul KiyamaPaD; de verificat dacă badge-ul a apărut |
+| 2026-11-16 | Pregătire Pair Extraordinaire | [PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) | Draft, CI trecut, așteaptă o colaborare reală; nu este încă eligible |
 
 [← Dashboard](../README.md) · [Catalog complet](ACHIEVEMENTS.md) · [Exerciții practice](WORKFLOWS.md)
