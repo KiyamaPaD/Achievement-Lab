@@ -31,7 +31,7 @@
 
 | Achievement | How to unlock | Can this lab help? | Status |
 | :--- | :--- | :--- | :--- |
-| 🚀 **YOLO** | Merge a PR without a review | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) merged without review | ⏳ **Pending — not awarded yet** |
+| 🚀 **YOLO** | Merge a PR without a review | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) + [public manual PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7), both merged without reviews | ⏳ **Pending — not awarded yet** |
 | 🤝 **Pair Extraordinaire** | Have a genuinely co-authored commit in a merged PR | ✅ With a real collaborator | ⬜ Not yet confirmed |
 | 🧠 **Galaxy Brain** | Get 2 answers accepted in GitHub Discussions | 🌍 Requires real Q&A discussions | ⬜ Not yet confirmed |
 | ⭐ **Starstruck** | Own a repo that reaches 16 stars | 🌍 Requires a public repository | ⬜ Not yet confirmed |
@@ -54,7 +54,7 @@ Achievements with levels can be earned repeatedly to reach higher tiers. These t
 
 ## 🎮 Next actions
 
-1. **YOLO 🚀 — pending:** [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) has been merged by KiyamaPaD without a formal review. Wait for GitHub to award the badge before changing the status to unlocked.
+1. **YOLO 🚀 — pending:** Both [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) and [manual public PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) were merged by KiyamaPaD with zero submitted reviews. The badge is still unconfirmed; no more test PRs are necessary while checking GitHub's award processing.
 2. **Pair Extraordinaire 🤝 — in progress:** [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) and [draft PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) are ready. A real teammate must help write and verify changes, and a genuinely co-authored commit must be retained before merging.
 3. **Galaxy Brain 🧠:** Answer genuine technical questions in GitHub Discussions where answers can be accepted.
 4. **Starstruck ⭐:** Improve a **public** project such as [Mars Atlas](https://github.com/KiyamaPaD/InfotronX-Horizon), [MathHard](https://github.com/KiyamaPaD/MathHard), or [FTC Programming Atlas](https://github.com/KiyamaPaD/FTC-Programming-Atlas) and let stars arrive organically.
