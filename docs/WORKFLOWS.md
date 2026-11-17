@@ -29,6 +29,8 @@ Nu crea și închide issue-uri goale doar pentru un badge.
 
 **Situația noastră:** [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) a fost merged fără review oficial, dar achievement-ul este **PENDING** până apare pe profil. Pe proiectele importante review-ul rămâne preferabil.
 
+test-text
+
 ## 04. Colaborare autentică
 
 Lucrează efectiv cu un coleg la un fișier sau la un proiect. Pentru un commit făcut împreună, GitHub acceptă trailerul de commit:
