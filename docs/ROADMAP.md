@@ -8,7 +8,7 @@
 | :--- | :--- | :--- |
 | 🦈 **Pull Shark** | ✅ Obținut | Confirmat de proprietar |
 | ⚡ **Quickdraw** | ✅ Obținut | Confirmat de proprietar |
-| 🚀 **YOLO** | ⬜ **PENDING — acordare neconfirmată** | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) — merged by KiyamaPaD, zero reviews, CI passed; badge-ul nu a apărut încă |
+| 🚀 **YOLO** | ⬜ **PENDING — acordare neconfirmată** | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) (privat la merge) și [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) (public, manual) — ambele merged de KiyamaPaD, cu zero review-uri; badge încă neacordat |
 | 🤝 **Pair Extraordinaire** | ⬜ **ÎN LUCRU — fără badge încă** | [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) + [PR #5 (draft)](https://github.com/KiyamaPaD/Achievement-Lab/pull/5); așteaptă contribuția autentică a unui coleg și un commit cu coautori |
 | 🧠 **Galaxy Brain** | ⬜ În așteptare | Răspuns acceptat 1: — / 2: — |
 | ⭐ **Starstruck** | ⬜ În așteptare | Repository public: — |
@@ -76,6 +76,7 @@
 | 2026-11-16 | Pull Shark și Quickdraw | Confirmate de utilizator ca obținute |
 | 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
 | 2026-11-16 | Test eligibilitate YOLO | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) | Merge fără review făcut din contul KiyamaPaD; de verificat dacă badge-ul a apărut |
+| 2026-11-17 | A doua încercare YOLO în repo public | [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | PR creat și merged manual, zero review-uri; pending. Conținutul de probă `test-text` trebuie înlocuit cu documentație utilă |
 | 2026-11-16 | Pregătire Pair Extraordinaire | [PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) | Draft, CI trecut, așteaptă o colaborare reală; nu este încă eligible |
 
 [← Dashboard](../README.md) · [Catalog complet](ACHIEVEMENTS.md) · [Exerciții practice](WORKFLOWS.md)
