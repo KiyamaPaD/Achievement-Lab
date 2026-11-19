@@ -8,7 +8,7 @@
 | :--- | :--- | :--- | :--- |
 | 🦈 **Pull Shark** | PR-uri ale tale acceptate prin merge | **2 → 16 → 128 → 1.024** merged PRs | ✅ Deblocat (confirmat de proprietar) |
 | ⚡ **Quickdraw** | Închizi un issue sau PR în maximum 5 minute de la creare | **1**, fără niveluri | ✅ Deblocat (confirmat de proprietar) |
-| 🚀 **YOLO** | Faci merge la un PR fără review | **1**, fără niveluri | ⏳ Pending — [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) merged, badge neconfirmat |
+| 🚀 **YOLO** | Faci merge la un PR fără review | **1**, fără niveluri | ✅ Deblocat — confirmat de proprietar pe **19.11.2026**, după [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) și [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) |
 | 🤝 **Pair Extraordinaire** | Ai un commit *co-authored* în PR acceptat | **1 → 10 → 24 → 48** | ⬜ De obținut |
 | 🧠 **Galaxy Brain** | Un răspuns al tău este acceptat într-un GitHub Discussion de tip Q&A | **2 → 8 → 16 → 32** răspunsuri | ⬜ De obținut |
 | ⭐ **Starstruck** | Un repository creat de tine atinge pragul de stele | **16 → 128 → 512 → 4.096** stele | ⬜ De obținut |
@@ -26,7 +26,7 @@ Nivelurile suplimentare sunt **praguri comunitar documentate**, nu date citite �
 
 **Nu este posibil să obții toate cele șapte doar prin editarea unui singur repository privat.**
 
-## 2. Pași concreți pentru cele cinci rămase
+## 2. Pași concreți pentru cele patru rămase
 
 ### 🚀 YOLO
 
@@ -75,7 +75,7 @@ Susținerea unui maintainer prin **GitHub Sponsors** poate debloca badge-ul dac�
 | **Heart On Your Sleeve** | 🧪 Dezactivat / experimental | Nu este un achievement disponibil obișnuit |
 | **Open Sourcerer** | 🧪 Dezactivat / experimental | Nu este un achievement disponibil obișnuit |
 
-Nu le trecem în calculul **2/7**, fiindcă nu sunt obiective obținibile normal.
+Nu le trecem în calculul **3/7**, fiindcă nu sunt obiective obținibile normal.
 
 ## 4. Profile Highlights — altă categorie
 
