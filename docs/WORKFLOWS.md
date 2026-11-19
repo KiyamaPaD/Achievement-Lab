@@ -27,9 +27,16 @@ Nu crea și închide issue-uri goale doar pentru un badge.
 
 Într-un proiect personal unde nu există regulă care să impună review, un PR creat de tine și acceptat fără review poate îndeplini condiția pentru **YOLO**. Folosește un PR cu o modificare bună, pe care ai verificat-o înainte de merge.
 
-**Situația noastră:** [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) a fost merged fără review oficial, dar achievement-ul este **PENDING** până apare pe profil. Pe proiectele importante review-ul rămâne preferabil.
+**Situația noastră:** [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) și [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) au fost merged fără review oficial. **YOLO a fost confirmat pe profil pe 19.11.2026**; nu știm care încercare a determinat acordarea. Pe proiectele importante, review-ul rămâne preferabil.
 
-test-text
+### Flux manual în interfața GitHub
+
+1. Deschide un fișier care necesită îmbunătățiri și apasă pictograma de editare.
+2. Modifică documentația sau codul, apoi alege **Create a new branch for this commit and start a pull request**.
+3. Deschide PR-ul către `main`, cu un titlu care descrie schimbarea.
+4. Verifică **Files changed** și rezultatul testelor automate.
+5. Dacă proiectul permite și nu este necesară o verificare formală, folosește **Merge pull request → Confirm merge**.
+6. Confirmă eventualul achievement în profil înainte să actualizezi tracker-ul.
 
 ## 04. Colaborare autentică
 
