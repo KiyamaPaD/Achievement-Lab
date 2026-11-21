@@ -67,7 +67,7 @@ Detailed steps are in **[Workflows →](docs/WORKFLOWS.md)**. Record proof and n
 
 **Experimental/disabled (not active goals):** Heart On Your Sleeve, Open Sourcerer.
 
-**Profile highlights (not Achievements):** PRO, Developer Program Member, Campus Expert, Security Advisory Credit, Security Bug Bounty Hunter. For accessible next steps, review [GitHub Education](https://github.com/education/students) (free Pro for eligible verified students) and the [GitHub Developer Program](https://docs.github.com/en/integrations/concepts/github-developer-program) (requires a genuine GitHub API integration and support contact). These highlights do not increase the 3/7 achievement count.
+**Profile highlights (not Achievements):** ✅ **Developer Program Member** (owner-confirmed on 21 November 2026); ⏳ **PRO via GitHub Education** (verification pending). Other highlights include Campus Expert, Security Advisory Credit, and Security Bug Bounty Hunter. These highlights do **not** increase the 3/7 achievement count. See the [Roadmap](docs/ROADMAP.md) for status.
 
 GitHub Achievements are in public preview and may change. The list of currently available achievements was checked on **2026-11-16**. Sources: [GitHub Docs](https://docs.github.com/en/account-and-profile/reference/profile-reference) · [Community achievement catalog](https://github.com/SharmARohitt/Github-Achievement).
 
