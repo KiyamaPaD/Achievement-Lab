@@ -45,7 +45,7 @@ Achievements with levels can be earned repeatedly to reach higher tiers. These t
 
 | Achievement | Default | Bronze | Silver | Gold | Current |
 | :--- | ---: | ---: | ---: | ---: | :--- |
-| 🦈 Pull Shark | 2 merged PRs | 16 | 128 | 1,024 | ✅ Base earned; higher levels unknown |
+| 🦈 Pull Shark | 2 merged PRs | 16 | 128 | 1,024 | ✅ Base earned; 🥉 Bronze threshold reached (19 merged PRs), award unconfirmed |
 | 🤝 Pair Extraordinaire | 1 co-authored merged PR | 10 | 24 | 48 | ⬜ |
 | 🧠 Galaxy Brain | 2 accepted answers | 8 | 16 | 32 | ⬜ |
 | ⭐ Starstruck | 16 stars on your repo | 128 | 512 | 4,096 | ⬜ |
@@ -67,7 +67,7 @@ Detailed steps are in **[Workflows →](docs/WORKFLOWS.md)**. Record proof and n
 
 **Experimental/disabled (not active goals):** Heart On Your Sleeve, Open Sourcerer.
 
-**Profile highlights (not Achievements):** PRO, Developer Program Member, Campus Expert, Security Advisory Credit, Security Bug Bounty Hunter. See the [full guide](docs/ACHIEVEMENTS.md) for distinctions.
+**Profile highlights (not Achievements):** PRO, Developer Program Member, Campus Expert, Security Advisory Credit, Security Bug Bounty Hunter. For accessible next steps, review [GitHub Education](https://github.com/education/students) (free Pro for eligible verified students) and the [GitHub Developer Program](https://docs.github.com/en/integrations/concepts/github-developer-program) (requires a genuine GitHub API integration and support contact). These highlights do not increase the 3/7 achievement count.
 
 GitHub Achievements are in public preview and may change. The list of currently available achievements was checked on **2026-11-16**. Sources: [GitHub Docs](https://docs.github.com/en/account-and-profile/reference/profile-reference) · [Community achievement catalog](https://github.com/SharmARohitt/Github-Achievement).
 
