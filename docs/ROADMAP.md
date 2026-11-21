@@ -62,6 +62,15 @@
 
 - [ ] Doar dacă vreau să susțin financiar un maintainer și accept plata. **Nu e obligatoriu**.
 
+## 🎖 Profile Highlights (separate de Achievements)
+
+Aceste badge-uri apar în zona de profil, dar **nu intră în totalul 3/7**.
+
+| Profile Highlight | Status | Pașii rămași |
+| :--- | :--- | :--- |
+| 🎓 **PRO prin GitHub Education** | ⏳ **PENDING REVIEW** — aplicația de elev trimisă pe 21.11.2026 | Așteaptă verificarea oficială și activarea beneficiilor; nu este încă acordat |
+| 🧑‍💻 **Developer Program Member** | 🛠️ În pregătire — utilitar GitHub REST API în dezvoltare | Rulează `tools/github_public_metrics.py`, apoi completează personal [înscrierea](https://github.com/developer/register) cu un email real de suport; verifică badge-ul |
+
 ## 🔐 Setări
 
 - [ ] Verific că achievement-urile sunt vizibile pe profil.
@@ -77,6 +86,7 @@
 | 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
 | 2026-11-16 | Test eligibilitate YOLO | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) | Merge fără review făcut din contul KiyamaPaD; de verificat dacă badge-ul a apărut |
 | 2026-11-17 | A doua încercare YOLO în repo public | [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | PR creat și merged manual, zero review-uri; contribuția de probă `test-text` a fost înlocuită ulterior cu instrucțiuni utile |
+| 2026-11-21 | GitHub Education | Cerere trimisă, **PENDING REVIEW**; badge PRO neconfirmat |
 | 2026-11-19 | YOLO obținut ✅ | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) / [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | Confirmat de proprietarul contului; atribuirea exactă nu este cunoscută |
 | 2026-11-16 | Pregătire Pair Extraordinaire | [PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) | Draft, CI trecut, așteaptă o colaborare reală; nu este încă eligible |
 
