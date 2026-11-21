@@ -18,7 +18,7 @@
 
 | Achievement | Default | Bronze | Silver | Gold | Cel mai mare nivel confirmat |
 | :--- | ---: | ---: | ---: | ---: | :--- |
-| Pull Shark (PR-uri merged) | 2 | 16 | 128 | 1.024 | Default ✅; pragul Bronze atins (19 PR-uri merged, API search 21.11.2026), x2 neconfirmat pe profil |
+| Pull Shark (PR-uri merged) | 2 | 16 | 128 | 1.024 | Default ✅; al doilea reper (16th pull request merged) și a doua bulină raportate de proprietar pe 21.11.2026 — Bronze foarte probabil; afișarea explicită x2 încă neconfirmată |
 | Pair Extraordinaire (PR-uri co-authored) | 1 | 10 | 24 | 48 | — |
 | Galaxy Brain (răspunsuri acceptate) | 2 | 8 | 16 | 32 | — |
 | Starstruck (stele) | 16 | 128 | 512 | 4.096 | — |
@@ -86,6 +86,7 @@ Aceste badge-uri apar în zona de profil, dar **nu intră în totalul 3/7**.
 | 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
 | 2026-11-16 | Test eligibilitate YOLO | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) | Merge fără review făcut din contul KiyamaPaD; de verificat dacă badge-ul a apărut |
 | 2026-11-17 | A doua încercare YOLO în repo public | [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | PR creat și merged manual, zero review-uri; contribuția de probă `test-text` a fost înlocuită ulterior cu instrucțiuni utile |
+| 2026-11-21 | Pull Shark — milestone Bronze | Proprietarul vede a doua bulină și «16th pull request merged»; de confirmat dacă pe badge apare x2 / Bronze |
 | 2026-11-21 | GitHub Developer Program Member ✅ | Confirmat de proprietar ca obținut; Profile Highlight, separat de Achievements |
 | 2026-11-21 | GitHub Education | Cerere trimisă, **PENDING REVIEW**; badge PRO neconfirmat |
 | 2026-11-19 | YOLO obținut ✅ | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) / [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | Confirmat de proprietarul contului; atribuirea exactă nu este cunoscută |
