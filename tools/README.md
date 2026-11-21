@@ -16,7 +16,8 @@ Expected output with the current tracker:
 
 ```text
 GitHub Achievements: 3/7 unlocked
-Remaining: 4
+Pending: 0
+Not yet earned or attempted: 4
   ✓ Pull Shark
   ✓ Quickdraw
   ✓ YOLO
@@ -37,6 +38,8 @@ Run the tests:
 ```bash
 python -m unittest discover -s tests -v
 ```
+
+The checker recognizes `✅` as unlocked, `⬜ PENDING` (case-insensitive) as pending, and other `⬜` rows as remaining. Pending awards do **not** increase the unlocked count. The `--json` output also includes the `pending` field. Tests verify counts and malformed state handling.
 
 After you **actually** receive a new GitHub award, update the status in `docs/ROADMAP.md` and run this checker again. It validates the seven active awards, ignores the higher-tier table, and returns a nonzero exit status for malformed or missing entries.
 
