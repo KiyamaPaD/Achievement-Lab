@@ -1,5 +1,6 @@
 """Tests for the local, dependency-free achievement progress checker."""
 
+import json
 import unittest
 
 from tools.achievement_status import ACHIEVEMENTS, TrackerError, get_report, parse_tracker
@@ -56,7 +57,7 @@ class ProgressCheckerTests(unittest.TestCase):
         with self.assertRaisesRegex(TrackerError, "Unrecognized status for YOLO"):
             parse_tracker(make_roadmap(values))
 
-    
+
     def test_pending_is_not_unlocked(self):
         values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
 
@@ -76,7 +77,7 @@ class ProgressCheckerTests(unittest.TestCase):
 
         self.assertEqual(statuses["YOLO"], "pending")
 
-    
+
     def test_pending_case_insensitive(self):
         values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
 
@@ -89,6 +90,49 @@ class ProgressCheckerTests(unittest.TestCase):
         self.assertEqual(report["remaining"], 6)
 
 
+    def test_multiple_pending_with_unlocked_and_remaining(self):
+        values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
+        values["Pull Shark"] = "✅ Obținut"
+        values["YOLO"] = "⬜ PENDING"
+        values["Galaxy Brain"] = "⬜ pending"
+
+        report = get_report(make_roadmap(values))
+
+        self.assertEqual(report["unlocked"], 1)
+        self.assertEqual(report["pending"], 2)
+        self.assertEqual(report["remaining"], 4)
+        self.assertEqual(
+            [item["status"] for item in report["achievements"]].count("pending"),
+            2,
+        )
+
+    def test_rejects_unlocked_and_pending_together(self):
+        values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
+        values["YOLO"] = "✅ PENDING"
+
+        with self.assertRaisesRegex(TrackerError, "Unrecognized status for YOLO"):
+            parse_tracker(make_roadmap(values))
+
+    def test_rejects_pending_without_checkbox(self):
+        values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
+        values["Galaxy Brain"] = "PENDING"
+
+        with self.assertRaisesRegex(TrackerError, "Unrecognized status for Galaxy Brain"):
+            parse_tracker(make_roadmap(values))
+
+    def test_report_is_json_serializable(self):
+        values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
+        values["Quickdraw"] = "✅ Obținut"
+        values["YOLO"] = "⬜ PENDING"
+
+        report = get_report(make_roadmap(values))
+        restored = json.loads(json.dumps(report))
+
+        self.assertEqual(restored["pending"], 1)
+        self.assertEqual(restored["unlocked"], 1)
+        self.assertEqual(restored["remaining"], 5)
+        self.assertEqual(restored["achievements"], report["achievements"])
+
+
 if __name__ == "__main__":
     unittest.main()
- 
