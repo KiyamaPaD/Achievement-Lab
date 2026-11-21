@@ -76,6 +76,18 @@ class ProgressCheckerTests(unittest.TestCase):
 
         self.assertEqual(statuses["YOLO"], "pending")
 
+    
+    def test_pending_case_insensitive(self):
+        values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
+
+        values["Galaxy Brain"] = "⬜ pending"
+
+        report = get_report(make_roadmap(values))
+
+        self.assertEqual(report["pending"], 1)
+        self.assertEqual(report["unlocked"], 0)
+        self.assertEqual(report["remaining"], 6)
+
 
 if __name__ == "__main__":
     unittest.main()
