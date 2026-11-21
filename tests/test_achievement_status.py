@@ -56,6 +56,27 @@ class ProgressCheckerTests(unittest.TestCase):
         with self.assertRaisesRegex(TrackerError, "Unrecognized status for YOLO"):
             parse_tracker(make_roadmap(values))
 
+    
+    def test_pending_is_not_unlocked(self):
+        values = {name: "⬜ În așteptare" for name in ACHIEVEMENTS}
+
+        values["Pull Shark"] = "✅ Obținut"
+        values["YOLO"] = "⬜ PENDING"
+
+        report = get_report(make_roadmap(values))
+
+        self.assertEqual(report["unlocked"], 1)
+        self.assertEqual(report["pending"], 1)
+        self.assertEqual(report["remaining"], 5)
+
+        statuses = {
+            item["name"]: item["status"]
+            for item in report["achievements"]
+        }
+
+        self.assertEqual(statuses["YOLO"], "pending")
+
 
 if __name__ == "__main__":
     unittest.main()
+ 
