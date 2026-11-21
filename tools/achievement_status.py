@@ -58,10 +58,16 @@ def parse_tracker(document: str) -> dict[str, str]:
         status_column = columns[1]
         unlocked = "✅" in status_column
         locked = "⬜" in status_column
-        if unlocked == locked:
+        pending = bool(re.search(r"\bPENDING\b", status_column, re.IGNORECASE))
+        if (unlocked and (locked or pending)) or (not unlocked and not locked):
             raise TrackerError(f"Unrecognized status for {name}: {status_column}")
 
-        result[name] = "unlocked" if unlocked else "remaining"
+        if unlocked:
+            result[name] = "unlocked"
+        elif pending:
+            result[name] = "pending"
+        else:
+            result[name] = "remaining"
 
     missing = [name for name in ACHIEVEMENTS if name not in result]
     if missing:
@@ -74,10 +80,12 @@ def get_report(document: str) -> dict:
     """Produce counts and per-achievement states for display or JSON export."""
     statuses = parse_tracker(document)
     unlocked = sum(status == "unlocked" for status in statuses.values())
+    pending = sum(status == "pending" for status in statuses.values())
     return {
         "total": len(ACHIEVEMENTS),
         "unlocked": unlocked,
-        "remaining": len(ACHIEVEMENTS) - unlocked,
+        "pending": pending,
+        "remaining": len(ACHIEVEMENTS) - unlocked - pending,
         "achievements": [{"name": name, "status": status} for name, status in statuses.items()],
     }
 
@@ -98,9 +106,10 @@ def main() -> int:
         print(json.dumps(report, ensure_ascii=False, indent=2))
     else:
         print(f"GitHub Achievements: {report['unlocked']}/{report['total']} unlocked")
-        print(f"Remaining: {report['remaining']}")
+        print(f"Pending: {report['pending']}")
+        print(f"Not yet earned or attempted: {report['remaining']}")
         for achievement in report["achievements"]:
-            symbol = "✓" if achievement["status"] == "unlocked" else "·"
+            symbol = {"unlocked": "✓", "pending": "⌛", "remaining": "·"}[achievement["status"]]
             print(f"  {symbol} {achievement['name']}")
 
     return 0
