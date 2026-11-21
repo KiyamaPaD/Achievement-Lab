@@ -9,7 +9,7 @@
 | 🦈 **Pull Shark** | ✅ Obținut | Confirmat de proprietar |
 | ⚡ **Quickdraw** | ✅ Obținut | Confirmat de proprietar |
 | 🚀 **YOLO** | ✅ **Obținut** | Confirmat de proprietar pe **19.11.2026**. [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) și [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) au fost merged fără review; nu se poate atribui sigur badge-ul unuia dintre ele |
-| 🤝 **Pair Extraordinaire** | ⬜ **ÎN LUCRU — fără badge încă** | [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) + [PR #5 (draft)](https://github.com/KiyamaPaD/Achievement-Lab/pull/5); așteaptă contribuția autentică a unui coleg și un commit cu coautori |
+| 🤝 **Pair Extraordinaire** | ⬜ **Test tehnic efectuat — badge neconfirmat** | [PR #5 merged](https://github.com/KiyamaPaD/Achievement-Lab/pull/5), CI verde; [commit cu trailer Co-authored-by](https://github.com/KiyamaPaD/Achievement-Lab/commit/ca0dfccbbd901f10e6f71f526b0c4644bf00532a) pentru contul secundar `Nuclear-BomB10`. Sunt două conturi ale aceleiași persoane, nu colaborare cu o altă persoană; acordarea badge-ului este neconfirmată |
 | 🧠 **Galaxy Brain** | ⬜ În așteptare | Răspuns acceptat 1: — / 2: — |
 | ⭐ **Starstruck** | ⬜ În așteptare | Repository public: — |
 | 💜 **Public Sponsor** | ⬜ Opțional (plătit) | — |
@@ -38,11 +38,11 @@
 ### Pasul 2: Pair Extraordinaire 🤝
 
 - [x] Am creat [Issue #4](https://github.com/KiyamaPaD/Achievement-Lab/issues/4) cu o problemă reală de rezolvat.
-- [x] Am creat [PR #5 (draft)](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) cu prima îmbunătățire Python și CI trecut.
-- [ ] Colaborez efectiv cu un alt developer.
-- [ ] Creez un commit care îl creditează corect pe coautor.
-- [ ] Includ commit-ul într-un PR și fac merge.
-- [ ] Verific achievement-ul oficial și documentez PR-ul.
+- [x] Am creat [PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) cu îmbunătățirea Python și teste automate.
+- [x] Am testat tehnic atribuirea a două conturi prin commit cu `Co-authored-by` (principal + secundar, aparținând aceleiași persoane).
+- [x] Am inclus commitul în PR și am făcut merge; CI a trecut.
+- [ ] Confirm dacă GitHub a acordat **Pair Extraordinaire** pe profil; experimentul nu garantează eligibilitatea.
+- [ ] Pentru o colaborare cu două persoane diferite, contribui efectiv împreună cu un coleg.
 
 ### Pasul 3: Galaxy Brain 🧠
 
@@ -86,10 +86,11 @@ Aceste badge-uri apar în zona de profil, dar **nu intră în totalul 3/7**.
 | 2026-11-16 | Catalog extins | 7 disponibile, 2 istorice, 2 dezactivate |
 | 2026-11-16 | Test eligibilitate YOLO | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) | Merge fără review făcut din contul KiyamaPaD; de verificat dacă badge-ul a apărut |
 | 2026-11-17 | A doua încercare YOLO în repo public | [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | PR creat și merged manual, zero review-uri; contribuția de probă `test-text` a fost înlocuită ulterior cu instrucțiuni utile |
+| 2026-11-21 | Pair Extraordinaire — experiment tehnic | [PR #5 merged](https://github.com/KiyamaPaD/Achievement-Lab/pull/5), commit cu `Co-authored-by`, CI verde; ambele conturi aparțin aceleiași persoane; badge neconfirmat |
 | 2026-11-21 | Pull Shark — milestone Bronze | Proprietarul vede a doua bulină și «16th pull request merged»; de confirmat dacă pe badge apare x2 / Bronze |
 | 2026-11-21 | GitHub Developer Program Member ✅ | Confirmat de proprietar ca obținut; Profile Highlight, separat de Achievements |
 | 2026-11-21 | GitHub Education | Cerere trimisă, **PENDING REVIEW**; badge PRO neconfirmat |
 | 2026-11-19 | YOLO obținut ✅ | [PR #3](https://github.com/KiyamaPaD/Achievement-Lab/pull/3) / [PR #7](https://github.com/KiyamaPaD/Achievement-Lab/pull/7) | Confirmat de proprietarul contului; atribuirea exactă nu este cunoscută |
-| 2026-11-16 | Pregătire Pair Extraordinaire | [PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) | Draft, CI trecut, așteaptă o colaborare reală; nu este încă eligible |
+| 2026-11-16 | Pregătire Pair Extraordinaire | [PR #5](https://github.com/KiyamaPaD/Achievement-Lab/pull/5) | Inițial Draft; experiment tehnic finalizat pe 21.11.2026, fără confirmarea badge-ului |
 
 [← Dashboard](../README.md) · [Catalog complet](ACHIEVEMENTS.md) · [Exerciții practice](WORKFLOWS.md)
