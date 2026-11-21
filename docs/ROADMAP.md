@@ -18,12 +18,12 @@
 
 | Achievement | Default | Bronze | Silver | Gold | Cel mai mare nivel confirmat |
 | :--- | ---: | ---: | ---: | ---: | :--- |
-| Pull Shark (PR-uri merged) | 2 | 16 | 128 | 1.024 | Default ✅ |
+| Pull Shark (PR-uri merged) | 2 | 16 | 128 | 1.024 | Default ✅; pragul Bronze atins (19 PR-uri merged, API search 21.11.2026), x2 neconfirmat pe profil |
 | Pair Extraordinaire (PR-uri co-authored) | 1 | 10 | 24 | 48 | — |
 | Galaxy Brain (răspunsuri acceptate) | 2 | 8 | 16 | 32 | — |
 | Starstruck (stele) | 16 | 128 | 512 | 4.096 | — |
 
-**Notă:** Pragurile sunt documentate de comunitate. Nu presupunem că ai nivelurile superioare până nu le verifici pe profil.
+**Notă:** Pragurile sunt documentate de comunitate. La 21.11.2026, căutarea GitHub `is:pr is:merged author:KiyamaPaD` a returnat **19** PR-uri merged, peste pragul comunitar Bronze (16). Acest lucru indică eligibilitate posibilă, **nu confirmă afișarea nivelului x2**; nu-l marcăm obținut până când proprietarul verifică profilul.
 
 ## 🧪 Checklist — următorii pași
 
