@@ -58,10 +58,12 @@ class GitHubMetricsTests(unittest.TestCase):
 
         def fetch(path):
             visited.append(path)
-            if "page=1" in path:
-                return [{"name": f"Repo-{i}", "stargazers_count": i} for i in range(100)]
-            if "page=2" in path:
-                return [{"name": "Last", "stargazers_count": 101}]
+            if path.startswith("/users/"):
+                page = parse_qs(urlsplit(path).query)["page"][0]
+                if page == "1":
+                    return [{"name": f"Repo-{i}", "stargazers_count": i} for i in range(100)]
+                if page == "2":
+                    return [{"name": "Last", "stargazers_count": 101}]
             return {"total_count": 101}
 
         report = collect_metrics("KiyamaPaD", fetch)
